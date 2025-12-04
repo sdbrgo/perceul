@@ -5,12 +5,13 @@ A Framework and Prototype for Unsupervised Profiling of Perception and Cognitive
 
 ## 📌 Overview
 
-PERCEUL aims to bridge ergonomics and AI, with the project using Unsupervised Learning for clustering latent perceptual profiles of workers in different work settings. It can be used by Ergonomics Analysts and Consultants who's sufficiently knowledgeable on Unsupervised Learning implementation, workflow, and cluster interpretation. The project includes using psychological, perceptual, self-reporting scales or tools, and Unsupervised Learning concepts and workflow. PERCEUL exists to address the gap in data-driven approaches and ergonomics, serving as an innovation that automates the profiling of workers for their benefit.
+PERCEUL aims to bridge ergonomics and AI, with the project using Unsupervised Learning for clustering latent perceptual profiles of workers in different work settings. It can be used by Ergonomics Analysts and Consultants who are sufficiently knowledgeable on Unsupervised Learning implementation, workflow, and cluster interpretation. The project includes using psychological, perceptual, self-reporting scales or tools, and Unsupervised Learning concepts and workflow. PERCEUL exists to address the gap in AI and ergonomics, serving as an innovation that automates the profiling of workers for workspace reorganization, resource allocation, and strategic workspace dynamics.
 
 ---
 
 ## 📂 Contents
-- notebook name
+- PERCEUL.ipynb
+- 
 
 --- 
 ## 📄 License
