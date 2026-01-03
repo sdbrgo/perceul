@@ -22,7 +22,7 @@ Consequently, the system shows stakeholders the aspects of an organization that 
 ---
 
 ## ⚠️System Limitations (What It Doesn't Do)
-- PERCEUL requires domain knowledge from psychology and ergonomics. Technical processes are handled by internally by the system, but the system urges precise data gathering via validated instruments.
+- PERCEUL requires domain knowledge from psychology and ergonomics. Technical processes are handled internally by the system, but it urges precise data gathering via validated instruments.
 Ergonomics recommendations are also a key output of the system, thus it requires recommendations driven by ergonomic and safety principles.
 - The system does not generate named groupings. Manual cluster interpretation is required to contextualize groups.
 - The current framework is a prototype and is not integration-ready. It is optimizable for integration purposes.
