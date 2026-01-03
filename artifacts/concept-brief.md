@@ -1,6 +1,8 @@
 # PERCEUL
 *"Perception, Cognitive Ergonomics, Unsupervised Learning"*
 
+**Hugging Face Prototype**: https://huggingface.co/spaces/sdbrgo/PERCEUL
+
 --- 
 
 ## 🚩Problem Statement
